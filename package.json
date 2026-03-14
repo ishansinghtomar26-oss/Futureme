@@ -1,9 +1,8 @@
 {
-    "name": "future-me",
-    "private": true,
-    "type": "module",
-    "dependencies": {
-        "@supabase/supabase-js": "^2.49.4",
-        "resend": "^4.1.2"
-    }
+  "name": "futureme",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
 }
