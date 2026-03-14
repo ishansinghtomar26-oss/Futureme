@@ -4,10 +4,10 @@ Write a heartfelt letter to your future self. Seal it today, and it will be deli
 
 ## Features
 
-- ✉️ Write a personal letter and share your current thoughts
-- 🔒 Seal your letter with your email address
-- 📬 Receive your letter via email the next day at 9:00 AM UTC
-- 🎨 Beautiful, immersive UI with smooth animations
+-  Write a personal letter and share your current thoughts
+-  Seal your letter with your email address
+-  Receive your letter via email the next day at 9:00 AM UTC
+-  Beautiful, immersive UI with smooth animations
 
 ## Tech Stack
 
